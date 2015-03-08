@@ -1,0 +1,16 @@
+.title {
+    white-space: normal;
+    text-decoration: none;
+    color: #00A0B0;
+}
+.item .description {
+    color: #8F8F8F;
+    white-space: normal;
+}
+.item .footer {
+    margin-top: 15px;
+}
+.item .author {
+    color: #4D4C4C;
+    font-size: 14px;
+}
